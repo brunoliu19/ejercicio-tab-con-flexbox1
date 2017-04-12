@@ -1,0 +1,39 @@
+.prueba1{
+	font-size: 20px;
+	display: flex;
+	justify-content: flex-start;
+	color: #4EBBE4;
+	border-style: solid gray; 
+	border-spacing: 100px 25px;
+
+
+	}
+
+.prueba2{
+	font-size: 20px;
+	display: flex;
+	justify-content: : flex-end;
+	color: #4EBBE4;
+	border-style: solid gray; 
+	border-spacing: 100px 25px;
+	flex-direction: row-reverse;
+
+
+}
+
+.prueba3{
+	font-size: 20px;
+	display: flex;
+	justify-content: flex-end;
+	color: #4EBBE4;
+	border-style: solid gray; 
+	border-spacing: 100px 25px;
+
+}
+.borde1{
+	border:solid;
+	color: #D7DBDD;
+	padding-bottom: 30px;
+	padding-top:10px;
+	margin-top: 
+}
